@@ -1,5 +1,6 @@
 # poornima-crt-2nd-year
-package Librarymanagement;
+package InventoryManagement;
+
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
@@ -91,3 +92,4 @@ public class InventoryManagementSystem extends JFrame {
         });
     }
 }
+
